@@ -1,0 +1,1 @@
+This is Kong's first git project!
